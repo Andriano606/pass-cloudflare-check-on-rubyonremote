@@ -1,6 +1,13 @@
-browser_profile/*
+# Browser profile
+browser_profile/
+
+# Screenshots
+*.png
 success.png
-browser_profile/first_party_sets.db
-browser_profile/first_party_sets.db
-success.png
-browser_profile/Local State
+failed_cloudflare.png
+error.png
+bot_check.png
+
+# Ruby temporary files
+.bundle/
+vendor/bundle/
